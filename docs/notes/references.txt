@@ -27,3 +27,5 @@ https://github.com/smalinux/Linux-Documentation/blob/master/Docs
 
 https://www.youtube.com/watch?v=IFpLfp1Pr6k
 https://www.startimes.com/f.aspx?t=37903005
+
+http://amsat-br.org/artigos/qo100rx/
