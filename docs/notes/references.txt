@@ -1,3 +1,5 @@
+http://forum.volsat.com.ua/showthread.php?t=13597&page=2
+
 http://dvbpro.ru/vosstanovlenie-pristavki-nationalchip-gx-posle-proshivki/
 https://www.instructables.com/CH341A-Programmer/
 http://dvbpro.ru/vosstanovlenie-pristavki-nationalchip-gx-posle-proshivki/
@@ -7,7 +9,14 @@ http://dvbpro.ru/instrukciya-kak-otremontirovat-resiver-chitat-vsem-u-kogo-probl
 
 https://www.electronics-lab.com/6-c-sky-linux-development-board-features-gx6605s-media-soc/
 https://c-sky.github.io/docs/gx6605s.html
+https://www.cnx-software.com/2018/11/12/c-sky-linux-development-board-gx6605s-media-soc/
 https://github.com/c-sky/forum/issues
+https://easywork.com.ua/world-vision-t62d-ne-reagiruet-na-pult.html
+https://github.com/McMCCRU/minisatip-gx/issues/2
 
+https://reverseengineering.stackexchange.com/questions/21298/how-to-extract-dvb-firmware-bin-file
 
+https://github.com/smalinux/Linux-Documentation/blob/master/Docs
 
+https://www.youtube.com/watch?v=IFpLfp1Pr6k
+https://www.startimes.com/f.aspx?t=37903005
